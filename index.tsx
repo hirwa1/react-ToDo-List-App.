@@ -12,7 +12,7 @@ class App extends Component<AppProps, AppState> {
   constructor(props) {
     super(props);
     this.state = {
-      name: 'UI/UX Development '
+      name: 'React'
     };
     
   }
