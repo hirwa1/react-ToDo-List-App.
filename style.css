@@ -1,6 +1,7 @@
 body {
-  margin: 0;
+  margin: 0; 
   min-width: 250px;
+ 
 }
 
 /* Include the padding and border in an element's total width and height */
@@ -81,6 +82,7 @@ ul li.checked::before {
   padding: 30px 40px;
   color: white;
   text-align: center;
+  width: 60%;
 }
 
 /* Clear floats after the header */
