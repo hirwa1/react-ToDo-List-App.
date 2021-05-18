@@ -21,7 +21,7 @@ class App extends Component<AppProps, AppState> {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Start editin
+          
         </p>
       </div>
     );
