@@ -21,9 +21,7 @@ class App extends Component<AppProps, AppState> {
     return (
       <div>
         <Hello name={this.state.name} />
-        <p>
-          
-        </p>
+        <div id="MyClockDisplay" class="clock" onload="showTime()"></div>
       </div>
     );
   }
